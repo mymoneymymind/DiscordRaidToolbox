@@ -9,7 +9,8 @@ Credits to [t.me/yackinnn](t.me/yackinnn)
 
 ## Credit
 
-Created by **yackinnn** — https://t.me/yackinnn
+Created & Updated by **yackinnn** — https://t.me/yackinnn
+Original reference code from 2020
 
 ## Requirements
 
