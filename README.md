@@ -1,6 +1,7 @@
-# RAIDBOT DISCORD
+# DISCORD RAID TOOLBOX
 
 A Discord raid bot built on **discord.js v13**.
+Credits to [t.me/yackinnn](t.me/yackinnn)
 
 > **Authorized lab use only.** This tool is meant to stress-test a Discord
 > moderation / anti-raid bot you own, against a throwaway test guild you control.
