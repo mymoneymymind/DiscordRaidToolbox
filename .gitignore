@@ -1,0 +1,7 @@
+node_modules/
+package-lock.json
+.settings.boot.json
+_deob.js
+index.deob.js
+*.log
+.env

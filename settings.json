@@ -1,0 +1,32 @@
+{
+
+"token":"ODEwNDk3NjY1NzKujghxxxxxxxxxxxxxxxxxjtjfjfWxY4",
+
+
+"prefix":".",
+
+
+"invite":"https://discord.gg/xxxxfx",
+
+
+"nameserver":"NAME SERVER",
+
+
+"channelname":"raid-by-name",
+
+"image":"https://cdn.discordapp.com/attachments/632634089828253771/638024930373533726/tenor.gif",
+
+
+"numberchannelmax":"7",
+
+"numbermessagemax":"10",
+
+"numberMPmax":"0",
+"noRaidServerID": "774679325941170212",
+"logschannelid": "810504737119797258",
+"logschannelid2": "none",
+"creditname":"SoW",
+"helpRAIDcommand":"help1212",
+
+"statusbot": "v$version$ | $servers$ guilds, $members$ members, $prefix$help"
+}
