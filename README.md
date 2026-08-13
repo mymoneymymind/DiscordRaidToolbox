@@ -5,7 +5,7 @@ Credits to [t.me/yackinnn](t.me/yackinnn)
 
 > **Authorized lab use only.** This tool is meant to stress-test a Discord
 > moderation / anti-raid bot you own, against a throwaway test guild you control.
-> Do not point it at servers you do not own or have permission to test against.
+> Do not point it at servers you do not own or have permission to test against. (wink wink)
 
 ## Credit
 
