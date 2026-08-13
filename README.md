@@ -1,4 +1,4 @@
-# DISCORD RAID TOOLBOX
+# DISCORD RAIDBOT TOOLBOX
 
 A Discord raid bot built on **discord.js v13**.
 Credits to [t.me/yackinnn](t.me/yackinnn)
